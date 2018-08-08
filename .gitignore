@@ -1,0 +1,13 @@
+**/.metadata/
+bin/
+.settings/
+**/.project
+**/.classpath
+**/.sonarlint/
+**/target/
+**/*.bin
+**/.DS_Store
+**/.settings/
+walmart/brickset-scraper/bin/
+walmart/brickset-scraper/lib/
+walmart/output/
